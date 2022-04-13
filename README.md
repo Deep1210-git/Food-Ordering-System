@@ -1,0 +1,2 @@
+# Food-Ordering-System
+This is a project intended to solve the problem of hostel students and increasing the efficiency of paid mess system. This web app will serve for different type of user like the customer and the food vendor(admin). The customers can select the mess in the campus from where they want to eat. They can also select food which they want to eat and then place there order. This web app is made using HTML, CSS, Javascript and PHP.
